@@ -14,7 +14,9 @@ Pour ce faire, un Deep Neural Network (Convolutional Neural Network) est constru
 
 ### Partitionnement du dataSet en trois sous-ensembles (Entrainement, validation, Test)
 On split notre data en trois ensembles :  entrainement pour entrainer notre reseau, validation pour évaluer les résultats de l'ensemble d'apprentissage, Test pour reverifier (double-check) l'évaluation après que le modèle a passé l'étape de validation. La figure suivante présente le  workflow :
-<img title="" alt="Alt text" src="/images/workflow">
+<div align="center">
+    <img src="img/workflow.png" />
+</div>
 
 
 ### Pronostic
