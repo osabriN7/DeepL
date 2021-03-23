@@ -12,8 +12,9 @@ Afin de créer notre base de données, nous avons téléchargé des images des p
 ### Approche proposée
 Pour ce faire, un Deep Neural Network (Convolutional Neural Network) est construit pour attribuer un genre à une affiche de film donnée. Puisqu'un film peut appartenir à plusieurs genres, il s'agit d'un problème de classification d'images multi-étiquettes mais dans notre projet on se contntera de déterminer le genre dominant.
 
-### Partitionnement d'un ensemble de données en trois sous-ensembles
+### Partitionnement du dataSet en trois sous-ensembles (Entrainement, validation, Test)
 On split notre data en trois ensembles :  entrainement pour entrainer notre reseau, validation pour évaluer les résultats de l'ensemble d'apprentissage, Test pour reverifier (double-check) l'évaluation après que le modèle a passé l'étape de validation. La figure suivante présente le  workflow :
+<img title="" alt="Alt text" src="/images/workflow">
 
 
 ### Pronostic
