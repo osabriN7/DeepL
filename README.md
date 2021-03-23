@@ -1,4 +1,3 @@
-# Movie-Genres-Classification-from-their-Poster-Image-using-CNNs
 # Classification des genres  de films à partir des affiches/images utilisant CNNs
 ## Introduction
 ### Description du problème 
