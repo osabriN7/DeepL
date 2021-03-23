@@ -38,6 +38,6 @@ Notre data Set (images, voire labels) peut etre sujet de modification ou ajustem
     <img src="img/00000013.jpg" />
 </div>
 <div align="center">
-    <img src="img/00000034.png" />
+    <img src="img/00000034" />
 </div>
 
