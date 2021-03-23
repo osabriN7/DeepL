@@ -7,6 +7,7 @@ Pour les spectateurs, les affiches de films sont très significatifs  pour avoir
 Si les humains sont plus ou moins capables de prédire le genre d'un film en ne regardant que son affiche, alors nous pouvons supposer que l'affiche possède certaines caractéristiques qui pourraient être utilisées dans les algorithmes d'apprentissage machines pour prédire son genre.
 
 ### Proposed Approach
+Afin de créer notre base de données, nous avons téléchargé des images des posters des films pour chaque genre depuis Google Images. Pour cela, nous avons utilisé un code écrit en JavaScript (voir js_console.js). On a injecté ce dernier dans la console de Google Chrome pour générer les urls de toutes les images présentes dans la page. Ensuite, nous les avons téléchargées à l’aide d’un code Python (download_images.py).
 
 Pour ce faire, un Deep Neural Network (Convolutional Neural Network) est construit pour attribuer un genre à une affiche de film donnée. Puisqu'un film peut appartenir à plusieurs genres, il s'agit d'un problème de classification d'images multi-étiquettes mais dans notre projet on se contntera de déterminer le genre dominant.
 
