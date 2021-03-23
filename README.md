@@ -29,15 +29,15 @@ Notre data Set (images, voire labels) peut etre sujet de modification ou ajustem
     <img src="img/00000000.jpg" />
 </div>
 <div align="center">
-    <img src="img/00000001.jpg" />
+    <img src="img/00000001.jpg"/>
 </div>
 <div align="center">
-    <img src="img/00000006s.png" />
+    <img src="img/00000006s.jpg"/>
 </div>
 <div align="center">
-    <img src="img/00000013.jpg" />
+    <img src="img/00000013.jpg"/>
 </div>
 <div align="center">
-    <img src="img/00000034" />
+    <img src="img/00000034.jpg"/>
 </div>
 
