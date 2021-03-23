@@ -4,7 +4,7 @@
 ### Description du problème 
 
 Ce projet a pour objectif de parvenir à une classification des genres de films basée uniquement sur des des affiches de films.
-For movie viewers, movie posters are one of the first impressions used to get an idea about the movie content and its genre. Humans can get an idea based on things like color, objects, expressions on the faces of actors etc to quickly determine the genre (horror, comedy, animation etc).
+Pour les spectateurs, les affiches de films sont très significatifs  pour avoir une idée du contenu du film et de son genre. Les humains peuvent se faire une idée en fonction de choses comme la couleur, les objets, les expressions sur les visages des acteurs, etc. pour déterminer rapidement le genre (horreur, comédie, animation, etc.).
 If humans are more or less able to predict genre of a movie only giving a look at its poster, then we can assume that the poster possesses some characteristics which could be utilized in machine learning algorithms to predict its genre.
 
 ### Proposed Approach
