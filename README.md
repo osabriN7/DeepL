@@ -15,7 +15,7 @@ Afin de créer notre base de données, nous avons téléchargé des images des p
 ### Partitionnement du dataSet en trois sous-ensembles (Entrainement, validation, Test)
 On split notre data en trois ensembles :  entrainement pour entrainer notre reseau, validation pour évaluer les résultats de l'ensemble d'apprentissage, Test pour reverifier (double-check) l'évaluation après que le modèle a passé l'étape de validation. La figure suivante présente le  workflow :
 <div align="center">
-    <img src="img/Capture du 2021-03-23 04-08-53.png" />
+    <img src="img/cap.png" />
 </div>
 
 
