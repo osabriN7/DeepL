@@ -27,17 +27,13 @@ Notre data Set (images, voire labels) peut etre sujet de modification ou ajustem
 ### Quelque images de notre  DB !
 <div align="center">
     <img src="img/00000000.jpg" />
-</div>
-<div align="center">
+
     <img src="img/00000001.jpg" />
-</div>
-<div align="center">
+
     <img src="img/00000006.png" />
-</div>
-<div align="center">
+
     <img src="img/000000013.png" />
-</div>
-<div align="center">
+
     <img src="img/00000034.png" />
 </div>
 
