@@ -17,7 +17,11 @@ On split notre data en trois ensembles :  entrainement pour entrainer notre rese
 <div align="center">
     <img src="img/cap.png" />
 </div>
+Voici le lien vers notre drive qui regroupe notre data Set partitionnée :  
 
+Validation : [I'm The Validation link](https://drive.google.com/drive/folders/1_cmBR_-tB6929h1Jh-NqTpKrFOehWvGU?usp=sharing)
+Test : [I'm the test link](https://drive.google.com/drive/folders/1pGtCIuNZCtW0xL7NFbkNVOCxbkc6PZOe?usp=sharing)
+Entrainement [I'm an the Training link](https://drive.google.com/drive/folders/1blthnYjpswG7KL7pwGlGvm8jUZMQyoiG?usp=sharing) :
 
 ### Pronostic
 Puisque même un humain peut facilement faire des erreurs dans cette tâche, notre objectif initial est de reconnaître correctement au moins la moitié des films.
