@@ -2,7 +2,7 @@
 ## Introduction
 ### Description du problème 
 
-Ce projet a pour objectif de parvenir à une classification des genres de films basée uniquement sur des des affiches de films.
+Ce projet a pour objectif de parvenir à une classification des genres de films basée uniquement sur des affiches de films.
 Pour les spectateurs, les affiches de films sont très significatifs  pour avoir une idée du contenu du film et de son genre. Les humains peuvent avoir une idée en se basant sur les couleurs, les objets, les expressions du  visages des acteurs, etc.. pour déterminer rapidement le genre (horreur, comédie, animation, etc.).
 Si les humains sont plus ou moins capables de prédire le genre d'un film en ne regardant que son affiche, alors nous pouvons supposer que l'affiche possède certaines caractéristiques qui pourraient être utilisées dans les algorithmes d'apprentissage machines pour prédire son genre.
 
@@ -22,6 +22,7 @@ Voici le lien vers notre drive qui regroupe notre data Set partitionnée :
 Validation : [I'm The Validation link](https://drive.google.com/drive/folders/1_cmBR_-tB6929h1Jh-NqTpKrFOehWvGU?usp=sharing)
 Test : [I'm the test link](https://drive.google.com/drive/folders/1pGtCIuNZCtW0xL7NFbkNVOCxbkc6PZOe?usp=sharing)
 Entrainement [I'm an the Training link](https://drive.google.com/drive/folders/1blthnYjpswG7KL7pwGlGvm8jUZMQyoiG?usp=sharing) :
+##### Vous pouvez aussi trouver notre dataSet dans la branche master de ce projet 
 
 ### Pronostic
 Puisque même un humain peut facilement faire des erreurs dans cette tâche, notre objectif initial est de reconnaître correctement au moins la moitié des films.
